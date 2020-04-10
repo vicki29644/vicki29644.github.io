@@ -1,11 +1,11 @@
 # Site settings
-author: Victoria Renee Mowbray
-title: 
+author: Victoria Mowbray
+title: My Coding Blog, Welcome!!!
 header-img: img/home-bg.png
 email: vicki29644@icloud.com
-copyright_name: Victoria Renee Mowbray
+copyright_name: Victoria Mowbray
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog, Blog, Blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  vicki29644
