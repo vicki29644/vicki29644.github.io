@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Why I love tech"
-date:       2020-05-06 19:12:58 +0000
+date:       2020-05-06 15:12:59 -0400
 permalink:  why_i_love_tech
 ---
 
-!https://www.google.com/imgres?imgurl=https://image.shutterstock.com/image-vector/concept-office-programs-training-young-260nw-1095318866.jpg&imgrefurl=https://www.shutterstock.com/search/female%2Bsoftware%2Bdeveloper&tbnid=__8TM0-g5OJGjM&vet=1&docid=oN0vQWHJDWXiMM&w=347&h=280&itg=1&q=a+software+engineer+woman&hl=en-US&source=sh/x/im
+![](https://www.google.com/imgres?imgurl=https://image.shutterstock.com/image-vector/concept-office-programs-training-young-260nw-1095318866.jpg&imgrefurl=https://www.shutterstock.com/search/female%2Bsoftware%2Bdeveloper&tbnid=__8TM0-g5OJGjM&vet=1&docid=oN0vQWHJDWXiMM&w=347&h=280&itg=1&q=a+software+engineer+woman&hl=en-US&source=sh/x/im)
  
  I have always loved technology, whether it was just a video game or just the original Apple computers that you could play Oregon Trail on.  I don't know why in high school I decided to take cosmetology instead of data entry (it is what my school had).   Or why when I went, I first started college I went for business administration.  After I had my first son in2000, I decided to go back to college and finish my degree but I decided I wanted to focus on law, so I obtained my AA in paralegal studies.  I was working at Walmart Pharmacy then and I used to fix the computers when the broke and I really did not do anything magical to them.  I knew if we called the help desk it would take forever.  so usually I could figure out what was going on with them.  
 
